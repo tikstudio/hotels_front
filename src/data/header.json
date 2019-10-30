@@ -1,0 +1,32 @@
+[
+  {
+    "id": 20,
+    "name": "header1",
+    "src": "icon1.png",
+    "description": "Payment Options"
+  },
+  {
+    "id": 21,
+    "name": "header2",
+    "src": "icon2.png",
+    "description": "Terms Conditions"
+  },
+  {
+    "id": 22,
+    "name": "header3",
+    "src": "",
+    "description": "US"
+  },
+  {
+    "id": 23,
+    "name": "header4",
+    "src": "",
+    "description": "IT"
+  },
+  {
+    "id": 24,
+    "name": "header4",
+    "src": "",
+    "description": "ES"
+  }
+]

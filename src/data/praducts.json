@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "product1",
+    "src": "room01.jpg",
+    "description": "Hotel Rome",
+    "images": [
+      {
+        "id": 70,
+        "src": "icon-star-full-white.svg",
+         "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 71,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 72,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      }
+    ],
+    "h2": "Small Room",
+    "services": [
+      {
+        "id": 15,
+        "name": "tv"
+      }
+    ],
+    "imag": [
+      {
+        "id": 11,
+        "src": "icon-user-grey.svg",
+        "description": "1 GUESTS",
+        "name": "icon-user-grey.svg",
+        "alt": ""
+      },
+      {
+        "id": 12,
+        "src": "icon-plan-grey.svg",
+        "name": "icon-plan-grey.svg",
+        "description": "15 ft",
+        "alt": ""
+      }
+    ],
+    "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel molestie nisl. Duis ac mi leo.",
+    "link": [
+      {
+        "id": 5,
+        "src": "icon141.png",
+        "name": "icon141.png",
+        "alt": ""
+      },
+      {
+        "id": 6,
+        "src": "icon18.png",
+        "name": "icon18.png",
+        "alt": ""
+      },
+      {
+        "id": 7,
+        "src": "icon14.png",
+        "name": "icon14.png",
+        "alt": ""
+      },
+      {
+        "id": 8,
+        "src": "icon10.png",
+        "name": "icon10.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "product2",
+    "src": "room02.jpg",
+    "description": "HOTEL LONDON",
+    "images": [
+      {
+        "id": 60,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 61,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 62,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      }
+    ],
+    "h2": "Room with View",
+    "imag": [
+      {
+        "id": 13,
+        "src": "icon-user-grey.svg",
+        "description": "4 GUESTS",
+        "name": "icon-user-grey.svg",
+        "alt": ""
+      },
+      {
+        "id": 14,
+        "src": "icon-plan-grey.svg",
+        "name": "icon-plan-grey.svg",
+        "description": "40 ft",
+        "alt": ""
+      }
+    ],
+    "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel molestie nisl. Duis ac mi leo.",
+    "link": [
+      {
+        "id": 25,
+        "src": "icon11.png",
+        "name": "icon11.png",
+        "alt": ""
+      },
+      {
+        "id": 26,
+        "src": "icon13.png",
+        "name": "icon13.png",
+        "alt": ""
+      },
+      {
+        "id": 27,
+        "src": "icon12.png",
+        "name": "icon12.png",
+        "alt": ""
+      },
+      {
+        "id": 28,
+        "src": "icon141.png",
+        "name": "icon141.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "product3",
+    "src": "room03.jpg",
+    "description": "HOTEL LONDON",
+    "images": [
+      {
+        "id": 50,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 51,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 52,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      }
+    ],
+    "h2": "Apartment",
+    "imag": [
+      {
+        "id": 80,
+        "src": "icon-user-grey.svg",
+        "description": "5 GUESTS",
+        "name": "icon-user-grey.svg",
+        "alt": ""
+      },
+      {
+        "id": 81,
+        "src": "icon-plan-grey.svg",
+        "name": "icon-plan-grey.svg",
+        "description": "70 ft",
+        "alt": ""
+      }
+    ],
+    "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel molestie nisl. Duis ac mi leo.",
+    "link": [
+      {
+        "id": 90,
+        "src": "icon18.png",
+        "name": "icon18.png",
+        "alt": ""
+      },
+      {
+        "id": 91,
+        "src": "icon10.png",
+        "name": "icon10.png",
+        "alt": ""
+      },
+      {
+        "id": 92,
+        "src": "icon13.png",
+        "name": "icon13.png",
+        "alt": ""
+      },
+      {
+        "id": 93,
+        "src": "icon141.png",
+        "name": "icon141.png",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "product4",
+    "src": "room04.jpg",
+    "description": "HOTEL NEW YORK",
+    "images": [
+      {
+        "id": 97,
+        "src": "icons/icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 98,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      },
+      {
+        "id": 99,
+        "src": "icon-star-full-white.svg",
+        "name": "icon-star-full-white.svg",
+        "alt": ""
+      }
+    ],
+    "h2": "Luxury Room",
+    "imag": [
+      {
+        "id": 75,
+        "src": "icon-user-grey.svg",
+        "description": "2 GUESTS",
+        "name": "icon-user-grey.svg",
+        "alt": ""
+      },
+      {
+        "id": 76,
+        "src": "icon-plan-grey.svg",
+        "name": "icon-plan-grey.svg",
+        "description": "50 ft",
+        "alt": ""
+      }
+    ],
+    "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel molestie nisl. Duis ac mi leo.",
+    "link": [
+      {
+        "id": 100,
+        "src": "icon14.png",
+        "name": "icon14.png",
+        "alt": ""
+      },
+      {
+        "id": 101,
+        "src": "icon11.png",
+        "name": "icon11.png",
+        "alt": ""
+      },
+      {
+        "id": 102,
+        "src": "icon141.png",
+        "name": "icon141.png",
+        "alt": ""
+      },
+      {
+        "id": 103,
+        "src": "icon12.png",
+        "name": "icon12.png",
+        "alt": ""
+      }
+    ]
+  }
+]

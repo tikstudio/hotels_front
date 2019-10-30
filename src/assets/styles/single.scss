@@ -1,0 +1,1328 @@
+.single_white {
+  background-color: #ffffff;
+  float: left;
+  width: 100%;
+  transition: all 0.8s ease;
+
+  .single_background {
+    background-image: url('../../assets/images/home/par008.jpg');
+    background-position: center;
+    background-size: cover;
+    float: left;
+    width: 100%;
+
+    .single_gradient_5 {
+      background: linear-gradient(to bottom, rgba(101, 100, 96, 0) 0%, rgba(101, 100, 96, 0.2) 60%, rgba(28, 28, 28, 1) 100%);
+      float: left;
+      width: 100%;
+
+      .single_border_box {
+        box-sizing: border-box;
+        width: 1200px;
+        margin: auto;
+        padding: 0;
+
+        .single_height_335 {
+          height: 335px;
+          float: left;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .single_margin_auto {
+    box-sizing: border-box;
+    width: 1200px;
+    margin: auto;
+    padding: 0;
+
+    .single_height_20 {
+      height: 20px;
+      float: left;
+      width: 100%;
+    }
+
+    .single_float_left {
+      float: left;
+      width: 100%;
+
+      .single_section {
+        float: left;
+        width: 100%;
+
+        .single__padding {
+          box-sizing: border-box;
+          padding: 15px;
+          float: left;
+          width: 100%;
+
+          .single_font_size_40 {
+            font-size: 40px;
+            line-height: 45px;
+            font-weight: lighter;
+            font-family: 'Lato', sans-serif;
+            color: #525252;
+            margin: 0;
+            padding: 0;
+            letter-spacing: 2px;
+          }
+
+          .single__height_10 {
+            height: 10px;
+            float: left;
+            width: 100%;
+          }
+
+          .single_booking_section {
+            width: 100%;
+
+            .single__spacing_2 {
+              letter-spacing: 2px;
+              float: left;
+              font-weight: lighter;
+              font-family: 'Lato', sans-serif;
+              font-size: 14px;
+              line-height: 27px;
+              color: #7e7e7e;
+              margin: 0;
+              padding: 0;
+
+              .single_transform_uppercase {
+                text-transform: uppercase;
+                margin-right: 10px;
+              }
+            }
+
+            .single__img_15 {
+              margin-right: 5px;
+              margin-top: 5px;
+              float: left;
+              width: 15px;
+            }
+          }
+        }
+
+        .single__width_60 {
+          float: left;
+          width: 60.66%;
+          padding: 0 6% 0 0;
+
+          .single_slider {
+            width: 100%;
+            height: 350px;
+            margin-bottom: 15px;
+
+            .carousel {
+              width: 100%;
+              height: 350px;
+              margin: auto;
+
+              .carousel_1 > img {
+                width: 100%;
+                height: 350px;
+              }
+
+
+              .slick-prev {
+                left: 0;
+                z-index: 99999999;
+                visibility: hidden;
+              }
+
+              .slick-next {
+                right: 0;
+                z-index: 99999999;
+                visibility: hidden;
+              }
+
+              .slick-dots {
+                position: absolute;
+                bottom: 0;
+                display: block;
+                width: 100%;
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                text-align: center;
+
+                li {
+                  position: relative;
+                  display: inline-block;
+                  width: 20px;
+                  height: 20px;
+                  margin: 0 30px;
+                  padding: 0;
+                  cursor: pointer;
+
+                  .carousel_button {
+                    width: 60px;
+                  }
+                }
+
+                .slick-active > .carousel_button {
+                  border: 2px solid red;
+                }
+              }
+            }
+          }
+
+          .single__padding_15 {
+            box-sizing: border-box;
+            padding: 15px;
+            width: 100%;
+
+            .single__padding__0 {
+              margin: 0 auto;
+              padding: 0;
+
+              .single_height_50 {
+                height: 50px;
+                float: left;
+                width: 100%;
+              }
+
+              .single_booking_section {
+                float: left;
+                width: 100%;
+
+                .single_align_center {
+                  text-align: center;
+                  float: left;
+                  width: 25%;
+
+                  .single__img_40 {
+                    width: 40px;
+                  }
+
+                  .single_height_5 {
+                    height: 5px;
+                    float: left;
+                    width: 100%;
+                  }
+
+                  .single__p {
+                    font-size: 14px;
+                    line-height: 27px;
+                    color: #7e7e7e;
+                    margin: 0;
+                    padding: 0;
+                    font-weight: lighter;
+                    font-family: 'Lato', sans-serif;
+                  }
+                }
+
+              }
+
+              .single_height_30 {
+                height: 30px;
+                float: left;
+                width: 100%;
+              }
+
+              .single_bg_grey {
+                background-color: #f9f9f9;
+                height: 2px;
+                float: left;
+                width: 100%;
+              }
+
+              .single_height_40 {
+                height: 40px;
+                float: left;
+                width: 100%;
+              }
+
+              .single__fluid {
+                display: inline-flex;
+
+                .single_wrapper {
+                  flex-wrap: wrap;
+                }
+              }
+
+              .single_float_section {
+                float: left;
+                width: 100%;
+
+                .single_booking_height_40 {
+                  height: 40px;
+                  float: left;
+                  width: 100%;
+                }
+
+                .single_float_section_1 {
+                  float: left;
+                  width: 100%;
+
+                  .single__h2 {
+                    text-transform: capitalize;
+                    word-wrap: break-word;
+                    font-weight: lighter;
+                    font-family: 'Lato', sans-serif;
+                    font-size: 25px;
+                    line-height: 25px;
+                    color: #525252;
+                    margin: 0;
+                    padding: 0;
+                  }
+                }
+
+                .single_height_20_1 {
+                  height: 20px;
+                  float: left;
+                  width: 100%;
+                }
+
+                .single_padding_10_0 {
+                  padding: 10px 0;
+                  float: left;
+                  width: 33.33%;
+
+                  .single_display_table {
+                    display: table;
+                    float: left;
+
+                    .single_align_middle_img {
+                      vertical-align: middle;
+                      display: table-cell;
+                      width: 25px;
+                      margin-right: 15px;
+                    }
+
+                    .single_align_middle_p {
+                      vertical-align: middle;
+                      display: table-cell;
+                      line-height: 20px;
+                      font-weight: lighter;
+                      font-family: 'Lato', sans-serif;
+                      font-size: 14px;
+                      color: #7e7e7e;
+                      margin: 0;
+                      padding: 0;
+                    }
+                  }
+                }
+              }
+            }
+
+            .single__padding__0_15 {
+              box-sizing: border-box;
+              padding: 0 15px;
+              float: left;
+              width: 100%;
+
+              .single__50_height {
+                height: 50px;
+                float: left;
+                width: 100%;
+              }
+
+              .single_booking_bg_grey {
+                background-color: #f9f9f9;
+                height: 2px;
+                float: left;
+                width: 100%;
+              }
+
+              .single__40_height {
+                height: 50px;
+                float: left;
+                width: 100%;
+              }
+
+              .single__nd_booking_section {
+                float: left;
+                width: 100%;
+
+                h2 {
+                  font-weight: lighter;
+                  font-family: 'Lato', sans-serif;
+                  font-size: 25px;
+                  line-height: 25px;
+                  color: #525252;
+                  letter-spacing: 2px;
+                  margin: 0;
+                  padding: 0;
+                }
+              }
+
+              .single__30_height {
+                height: 50px;
+                float: left;
+                width: 100%;
+              }
+            }
+
+            .single__box_sizing {
+              box-sizing: border-box;
+              padding: 0 5px;
+              float: left;
+              width: 100%;
+
+              .single__padding_010 {
+                box-sizing: border-box;
+                padding: 0 10px;
+                float: left;
+                width: 33.33%;
+
+                .single__position {
+                  box-sizing: border-box;
+                  position: relative;
+                  float: left;
+                  width: 100%;
+
+                  .single_section__img {
+                    float: left;
+                    width: 100%;
+                  }
+
+                  .single_section__div {
+                    box-sizing: border-box;
+                    left: 0;
+                    position: absolute;
+                    background: linear-gradient(to bottom, rgba(101, 100, 96, 0) 0%, rgba(101, 100, 96, 0.2) 60%, rgba(28, 28, 28, 1) 100%);
+                    padding: 30px;
+                    height: 100%;
+                    width: 100%;
+
+                    .single__bottom_20 {
+                      bottom: 20px;
+                      position: absolute;
+
+                      a {
+                        text-decoration: none;
+                        font-family: 'Quicksand', sans-serif;
+                        color: #7e7e7e;
+                        font-weight: normal;
+
+                        .single_white_h4 {
+                          color: #fff !important;
+                          letter-spacing: 2px;
+                          float: left;
+                          font-weight: lighter;
+                          font-family: 'Lato', sans-serif;
+                          font-size: 17px;
+                          line-height: 17px;
+                          margin: 0;
+                          padding: 0;
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        .single__width_33 {
+          padding: 0;
+          box-sizing: border-box;
+          float: left;
+          width: 33.33%;
+
+          .single__form_100 {
+            width: 100%;
+
+            .single__form_width {
+              box-sizing: border-box;
+              float: left;
+              width: 100%;
+
+              .single__form_padding {
+                box-sizing: border-box;
+                padding: 15px;
+                float: left;
+                width: 100%;
+                background-color: #585f77;
+
+                .single__111_height {
+                  width: 50%;
+                  height: 111px;
+                  float: left;
+
+                  .single__text_align {
+                    box-sizing: border-box;
+                    text-align: center;
+                    float: left;
+                    width: 100%;
+
+                    p {
+                      font-size: 14px;
+                      line-height: 27px;
+                      color: #7e7e7e;
+                      margin: 0;
+                      padding: 0;
+                      font-weight: lighter;
+                      font-family: 'Lato', sans-serif;
+                    }
+
+                    .DayPickerInput {
+                      display: inline-block;
+
+                      input {
+                        background-color: #f9f9f9;
+                        outline: 0;
+                        border: 1px solid #f1f1f1;
+                        padding: 5px 10px;
+                        box-sizing: border-box;
+                        width: 90%;
+                        font-weight: lighter;
+                        font-family: 'Lato', sans-serif;
+                        font-size: 15px;
+                        color: #7e7e7e;
+                      }
+                    }
+                  }
+                }
+
+                .single__width_50 {
+                  box-sizing: border-box;
+                  padding-top: 0;
+                  float: left;
+                  width: 50%;
+
+                  .single__width_100 {
+                    box-sizing: border-box;
+                    text-align: center;
+                    height: 111px;
+                    padding: 0;
+                    float: left;
+                    width: 100%;
+                    background-color: #585f77;
+
+                    .single__align_center {
+                      box-sizing: border-box;
+                      text-align: center;
+                      float: left;
+                      width: 100%;
+
+                      .single__color_f {
+                        color: #fff !important;
+                        letter-spacing: 2px;
+                        font-size: 12px;
+                        line-height: 12px;
+                        font-weight: lighter;
+                        font-family: 'Lato', sans-serif;
+                        margin: 0;
+                        padding: 0;
+                      }
+
+                      .single__color_15 {
+                        height: 15px;
+                        float: left;
+                        width: 100%;
+                      }
+
+                      .single_inline_flex {
+                        display: inline-flex;
+
+                        .single_align_right {
+                          text-align: right;
+                          float: left;
+
+                          .single_yellow_important {
+                            color: #c19b76 !important;
+                            font-size: 50px;
+                            line-height: 50px;
+                            font-weight: lighter;
+                            font-family: 'Lato', sans-serif;
+                            margin: 0;
+                            padding: 0;
+                            letter-spacing: 2px;
+                          }
+                        }
+
+                        .single_float_right {
+                          text-align: center;
+                          margin-left: 10px;
+                          float: right;
+
+                          .single_height_7 {
+                            height: 7px;
+                            float: left;
+                            width: 100%;
+                          }
+
+                          .single_height_7_section {
+                            float: left;
+                            width: 100%;
+
+                            .single__transform {
+                              transform: rotate(180deg);
+                              cursor: pointer;
+                              float: right;
+                              width: 12px;
+                            }
+                          }
+
+                          .single_height_11 {
+                            height: 10px;
+                            float: left;
+                            width: 100%;
+                          }
+
+                          .single_height_10_section {
+                            float: left;
+                            width: 100%;
+
+                            .single__transform_no {
+                              cursor: pointer;
+                              float: right;
+                              width: 12px;
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+
+                .single__padding__top0 {
+                  box-sizing: border-box;
+                  padding-top: 0;
+                  float: left;
+                  width: 50%;
+
+                  .single__background_color {
+                    box-sizing: border-box;
+                    text-align: center;
+                    height: 111px;
+                    padding: 0;
+                    float: left;
+                    width: 100%;
+                    background-color: #585f77;
+
+                    .single__guests {
+                      box-sizing: border-box;
+                      text-align: center;
+                      float: left;
+                      width: 100%;
+
+                      .single__color_fff {
+                        color: #fff !important;
+                        letter-spacing: 2px;
+                        font-size: 12px;
+                        line-height: 12px;
+                        font-weight: lighter;
+                        font-family: 'Lato', sans-serif;
+                        margin: 0;
+                        padding: 0;
+                      }
+
+                      .single_booking_height_15 {
+                        height: 15px;
+                        float: left;
+                        width: 100%;
+                      }
+
+                      .single_display_inline_flex {
+                        display: inline-flex;
+
+                        .single_text_align_right {
+                          text-align: right;
+                          float: left;
+
+                          .single__color_yellow {
+                            color: #c19b76 !important;
+                            font-size: 50px;
+                            line-height: 50px;
+                            font-weight: lighter;
+                            font-family: 'Lato', sans-serif;
+                            margin: 0;
+                            padding: 0;
+                            letter-spacing: 2px;
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+
+                .single__border_box {
+                  box-sizing: border-box;
+                  padding: 15px;
+                  float: left;
+                  width: 100%;
+
+                  .single_booking_float {
+                    height: 15px;
+                    float: left;
+                    width: 100%;
+                  }
+
+                  .single__input_s {
+                    font-size: 11px;
+                    letter-spacing: 4px;
+                    font-weight: 300;
+                    border-width: 0;
+                    border-color: #6ab1bf;
+                    border-style: solid;
+                    padding: 15px 30px !important;
+                    color: #ffffff;
+                    cursor: pointer;
+                    background-color: initial;
+                    border-top: 1px solid #fff;
+                    border-bottom: 1px solid #fff;
+                    font-family: 'Lato', sans-serif;
+                    line-height: 11px;
+                    width: 100%;
+                  }
+                }
+              }
+            }
+          }
+
+          .single_book_height_40 {
+            height: 40px;
+            float: left;
+            width: 100%;
+          }
+
+          .single_book_section {
+            width: 100%;
+
+            .single_width_100_percentage {
+              width: 100%;
+
+              .single__padding_0020 {
+                padding: 0 0 20px 0;
+                box-sizing: border-box;
+                float: left;
+                width: 100%;
+
+                .single_position_relative {
+                  position: relative;
+                  float: left;
+                  width: 100%;
+
+                  .single_booking_top_0 {
+                    top: 0;
+                    left: 0;
+                    position: absolute;
+                    width: 100px;
+                  }
+
+                  .single__padding_left_s {
+                    box-sizing: border-box;
+                    padding-left: 120px;
+                    min-height: 100px;
+                    float: left;
+                    width: 100%;
+
+                    .single__padding_left_5 {
+                      height: 5px;
+                      float: left;
+                      width: 100%;
+                    }
+
+                    .single__title {
+                      font-size: 17px;
+                      line-height: 17px;
+                      color: #525252;
+                      margin: 0;
+                      padding: 0;
+                      font-weight: lighter;
+                      font-family: 'Lato', sans-serif;
+                      letter-spacing: 2px;
+                    }
+
+                    .single__title_height_10 {
+                      height: 10px;
+                      float: left;
+                      width: 100%;
+                    }
+
+                    .single__p_7e {
+                      font-size: 14px;
+                      line-height: 27px;
+                      color: #7e7e7e;
+                      margin: 0;
+                      padding: 0;
+                      font-weight: lighter;
+                      font-family: 'Lato', sans-serif;
+                    }
+
+                    .single__div_7e {
+                      float: left;
+                      width: 100%;
+
+                      .single__ba {
+                        background-color: #6ab1bf;
+                        color: #fff !important;
+                        font-size: 11px;
+                        line-height: 11px;
+                        padding: 5px 10px;
+                        text-decoration: none;
+                        font-weight: lighter;
+                        font-family: 'Lato', sans-serif;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+          .single_book_height_20 {
+            width: 100%;
+            float: left;
+            height: 20px;
+          }
+
+          .single_sidebar_widget {
+            margin-bottom: 40px;
+
+            .single_book_height_h3 {
+              font-size: 20px;
+              line-height: 20px;
+              color: #525252;
+              margin: 0;
+              padding: 0;
+              font-weight: lighter;
+              font-family: 'Lato', sans-serif;
+              letter-spacing: 2px;
+            }
+
+            .single_book_form {
+              width: 100%;
+
+              .single_book_form_text {
+                clip: rect(1px, 1px, 1px, 1px);
+                position: absolute !important;
+                height: 1px;
+                width: 1px;
+                overflow: hidden;
+                font-weight: lighter;
+                font-family: 'Lato', sans-serif;
+                font-size: 15px;
+                color: #7e7e7e;
+              }
+
+              .single_book_form_text_input {
+                width: 100%;
+                font-weight: lighter;
+                background-color: #f9f9f9;
+                border-radius: 3px;
+                padding: 10px 20px;
+                color: #7e7e7e;
+                font-family: 'Lato', sans-serif;
+                outline: 0;
+                border: 1px solid #f1f1f1;
+                box-sizing: border-box;
+                font-size: 15px;
+              }
+
+              .single_book_form_submit_input {
+                margin-top: 20px;
+                font-size: 11px;
+                font-family: 'Lato', sans-serif;
+                font-weight: 300 !important;
+                border-radius: 3px;
+                width: 100px;
+                letter-spacing: 3px !important;
+                background-color: #6ab1bf;
+                color: #ffffff;
+                cursor: pointer;
+                outline: 0;
+                border: 1px solid #f1f1f1;
+                padding: 10px 20px;
+                box-sizing: border-box;
+                text-transform: uppercase;
+              }
+            }
+          }
+
+          .single_sidebar_widget1 {
+            margin-bottom: 40px;
+
+            .single_book_title_h3 {
+              font-size: 20px;
+              line-height: 20px;
+              color: #525252;
+              letter-spacing: 2px;
+              margin-bottom: 20px;
+              padding: 0;
+              font-weight: lighter;
+              font-family: 'Lato', sans-serif;
+            }
+
+            .single_book_title__ul {
+              margin: 0;
+              padding: 0;
+              list-style: none;
+
+              .single_book_title__ul_li {
+                padding: 10px;
+                border-bottom: 1px solid #f1f1f1;
+
+                a {
+                  color: #7e7e7e;
+                  font-family: 'Lato', sans-serif;
+                  font-weight: lighter;
+                  text-decoration: none;
+                }
+              }
+            }
+          }
+
+          .single_sidebar_widget2 {
+            margin-bottom: 40px;
+
+            .single_book_title_h32 {
+              font-size: 20px;
+              line-height: 20px;
+              color: #525252;
+              letter-spacing: 2px;
+              margin-bottom: 20px;
+              padding: 0;
+              font-weight: lighter;
+              font-family: 'Lato', sans-serif;
+            }
+
+            .single__div_relative {
+              position: relative;
+              height: 240px;
+              float: left;
+              width: 100%;
+            }
+
+            .single__div_absolute {
+              width: 100%;
+              left: 0;
+              top: 0;
+
+              .single__div_absolute_style {
+                padding: 0 0 20px 0;
+                box-sizing: border-box;
+                float: left;
+                width: 100%;
+
+                .single__div__style_relative {
+                  position: relative;
+                  float: left;
+                  width: 100%;
+
+                  .single__div__style_img {
+                    max-width: 100%;
+                    top: 0;
+                    left: 0;
+                    position: absolute;
+                    width: 100px;
+                  }
+
+                  .single__div__style_div {
+                    box-sizing: border-box;
+                    padding-left: 120px;
+                    min-height: 100px;
+                    float: left;
+                    width: 100%;
+
+                    .single__div__height_5 {
+                      height: 5px;
+                      float: left;
+                      width: 100%;
+                    }
+
+                    .single__div__height_7 {
+                      height: 7px;
+                      float: left;
+                      width: 100%;
+                    }
+
+                    a {
+                      color: #7e7e7e;
+                      font-family: 'Lato', sans-serif;
+                      font-weight: lighter;
+                      text-decoration: none;
+
+                      h4 {
+                        color: #525252;
+                        font-family: 'Lato', sans-serif;
+                        font-weight: lighter;
+                        letter-spacing: 2px;
+                        font-size: 17px;
+                        line-height: 17px;
+                        margin: 0;
+                        padding: 0;
+                      }
+                    }
+
+                    .single__div__height_10 {
+                      height: 10px;
+                      float: left;
+                      width: 100%;
+                    }
+
+                    .single__div_p {
+                      color: #7e7e7e;
+                      font-family: 'Lato', sans-serif;
+                      font-weight: lighter;
+                      font-size: 14px;
+                      line-height: 27px;
+                      margin: 0;
+                      padding: 0;
+                    }
+
+                    .single__nicdark_body {
+                      font-size: 14px;
+                      line-height: 27px;
+
+                      .single__nicdark_body_select {
+                        max-width: 100%;
+                        margin-right: 5px;
+                        width: 13px;
+                        float: left;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .single__nd_booking_height_50 {
+    height: 50px;
+    float: left;
+    width: 100%;
+  }
+
+  .single_top_2_solid_grey {
+    border-top: 2px solid #f9f9f9;
+    float: left;
+    width: 100%;
+
+    .single__nd_booking_height_51 {
+      height: 50px;
+      float: left;
+      width: 100%;
+    }
+
+    .single_sizing_border_box {
+      box-sizing: border-box;
+      width: 1200px;
+      margin: auto;
+      padding: 0;
+
+      .single__padding_155 {
+        box-sizing: border-box;
+        padding: 15px;
+        float: left;
+        width: 100%;
+
+        .single__break_word {
+          word-wrap: break-word;
+          font-size: 40px;
+          line-height: 45px;
+          font-family: 'Lato', sans-serif;
+          color: #525252;
+          margin: 0;
+          padding: 0;
+          font-weight: lighter;
+          letter-spacing: 2px;
+
+          .single__span {
+            text-transform: capitalize;
+          }
+        }
+
+        .single__break_w {
+          float: left;
+          width: 100%;
+
+          .single__break_span {
+            display: none;
+            background-color: #585f77;
+            height: 1px;
+            width: 30px;
+          }
+        }
+      }
+
+      .single__left_33 {
+        float: left;
+        width: 33.33%;
+
+        .single__left_33_box {
+          box-sizing: border-box;
+          padding: 15px;
+          float: left;
+          width: 100%;
+
+          .single__left_solid_grey {
+            border: 1px solid #f1f1f1;
+            background-color: #fff;
+            float: left;
+            width: 100%;
+
+            .single__position_relative {
+              position: relative;
+              float: left;
+              width: 100%;
+
+              .single__position_img {
+                float: left;
+                width: 100%;
+              }
+
+              .single__position_fill {
+                box-sizing: border-box;
+                left: 0;
+                position: absolute;
+                background: linear-gradient(to bottom, rgba(28, 28, 28, 0) 60%, rgba(28, 28, 28, 0.5) 100%);
+                padding: 30px;
+                height: 100%;
+                width: 100%;
+
+                .single__position_bottom_20 {
+                  bottom: 20px;
+                  position: absolute;
+
+                  .single__color_white {
+                    color: #fff !important;
+                    text-transform: uppercase;
+                    letter-spacing: 2px;
+                    font-size: 11px;
+                    line-height: 11px;
+                    margin-right: 10px;
+                    float: left;
+                    font-family: 'Lato', sans-serif;
+                    padding: 0;
+                    font-weight: lighter;
+                  }
+
+                  .single__img_10 {
+                    margin-right: 5px;
+                    float: left;
+                    width: 10px;
+                  }
+                }
+              }
+            }
+
+            .single__position_absolute {
+              box-sizing: border-box;
+              padding: 30px;
+              float: left;
+              width: 100%;
+
+              a {
+                text-decoration: none;
+                font-family: 'Lato', sans-serif;
+                color: #7e7e7e;
+                font-weight: lighter;
+                letter-spacing: 2px;
+
+                h2 {
+                  font-family: 'Lato', sans-serif;
+                  font-size: 30px;
+                  line-height: 30px;
+                  color: #525252;
+                  margin: 0;
+                  padding: 0;
+                  font-weight: lighter;
+                  letter-spacing: 2px;
+                }
+              }
+
+              .single__end_height_10 {
+                height: 10px;
+                float: left;
+                width: 100%;
+              }
+
+              .single__end__section {
+                float: left;
+                width: 100%;
+
+                .single__end_display_table {
+                  display: table;
+                  float: left;
+
+                  .single__end_img {
+                    vertical-align: middle;
+                    display: table-cell;
+                    width: 23px;
+                    margin-right: 10px;
+                  }
+
+                  .single__end_p {
+                    vertical-align: middle;
+                    display: table-cell;
+                    font-size: 12px;
+                    line-height: 12px;
+                    font-family: 'Lato', sans-serif;
+                    color: #7e7e7e;
+                    padding: 0;
+                    margin: 0;
+                    font-weight: lighter;
+                  }
+
+                  .single__end_img1 {
+                    vertical-align: middle;
+                    display: table-cell;
+                    width: 20px;
+                    margin-left: 20px;
+                    margin-right: 10px;
+                  }
+                }
+
+              }
+
+              .single_end_height_20 {
+                height: 20px;
+                float: left;
+                width: 100%;
+              }
+
+              .single_end_p {
+                font-family: 'Lato', sans-serif;
+                font-size: 14px;
+                line-height: 27px;
+                color: #7e7e7e;
+                margin: 0;
+                padding: 0;
+                font-weight: lighter;
+              }
+
+              .single_end_padding_15_30_important {
+                border: 1px solid #7e7e7e !important;
+                font-weight: 400;
+                color: #7e7e7e !important;
+                border-right-width: 0 !important;
+                border-left-width: 0 !important;
+                letter-spacing: 3px;
+                font-family: 'Lato', sans-serif !important;
+                cursor: pointer;
+                display: inline-block;
+                border-radius: 0 !important;
+                font-size: 11px;
+                line-height: 11px;
+                padding: 15px 30px !important;
+                text-decoration: none;
+
+                .single_end_padding_15_30_span {
+                  font-weight: 400;
+                  color: #7e7e7e !important;
+                  letter-spacing: 3px;
+                  font-family: 'Lato', sans-serif !important;
+                  cursor: pointer;
+                  font-size: 11px;
+                  line-height: 11px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .single_white .single_margin_auto {
+    width: 100%;
+
+
+    .single_float_left .single_section {
+      flex-wrap: wrap;
+
+      .single__padding {
+        padding: 15px 150px;
+      }
+
+      .single__width_60 {
+        width: 100%;
+
+        .single_slider {
+          width: 75%;
+          margin: auto;
+        }
+
+        .single__padding_15 {
+          width: 75%;
+          margin: auto;
+        }
+      }
+
+      .single__width_33 {
+        width: 100%;
+        margin-top: 50px;
+
+        .single__form_100 {
+          width: 70%;
+          margin: auto;
+        }
+
+        .single_book_section {
+          width: 70%;
+          margin: auto;
+        }
+
+        .single_sidebar_widget .single_book_height_h3 {
+          position: absolute;
+          margin-top: 725px;
+          margin-left: 185px;
+        }
+
+        .single_sidebar_widget .single_book_form {
+          width: 70%;
+          margin: auto;
+        }
+
+        .single_sidebar_widget1 {
+          width: 70%;
+          margin: auto;
+        }
+
+        .single_sidebar_widget2 {
+          width: 70%;
+          margin: auto;
+        }
+      }
+    }
+
+  }
+
+  .single_white .single_top_2_solid_grey .single_sizing_border_box {
+    width: 70%;
+
+    .single__left_33 {
+      width: 100%;
+    }
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+  .single_white .single_margin_auto .single_float_left .single_section .single__width_60 .single__padding_15 .single__box_sizing {
+    flex-wrap: wrap;
+
+    .single__padding_010 {
+      width: 100%;
+    }
+  }
+
+  .single_white .single_margin_auto .single_float_left .single_section .single__width_60 .single__padding_15 .single__padding__0 .single_booking_section {
+    flex-wrap: wrap;
+
+    .single_align_center {
+      width: 100%;
+    }
+  }
+
+  .single_white .single_margin_auto .single_float_left .single_section .single__width_60 .single__padding_15 .single__padding__0 .single_float_section {
+    flex-wrap: wrap;
+
+    .single_padding_10_0 {
+      width: 100%;
+    }
+  }
+}
