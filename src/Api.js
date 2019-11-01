@@ -6,7 +6,7 @@ axios.defaults.baseURL = 'http://localhost:4000';
 class Api {
     static registration(data) {
         console.log(data);
-        return axios.post('/account/sing-up', data);
+        return axios.post('/adminlogin/admin-sing-up', data);
     }
 
 

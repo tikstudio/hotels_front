@@ -3,23 +3,13 @@ import {Link} from "react-router-dom";
 import Mediamenu from "./Mediamenu";
 
 class Menu extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            media: false,
-        };
-    }
 
-    mediaClick = () => {
-        let {media} = this.state;
-        this.setState({media: !media})
-    };
 
     render() {
-        let {media} = this.state;
+
         return (
             <>
-                <Mediamenu media={media} mediaClick={this.mediaClick}/>
+                <Mediamenu/>
                 <div className="menu_position_relative ">
                     <div className="menu__background">
                         <div className="menu_relative">
@@ -211,13 +201,6 @@ class Menu extends Component {
                                                  className="menu__img_f"
                                                  src="/images/home/logo.png"/></Link>
                                 <div className="menu__height_10"></div>
-                                <div className="menu_x_1">
-                                    <Link
-                                        to="">
-                                        <img alt="" onClick={this.mediaClick}
-                                             src="/images/home/iconmenu.svg"/>
-                                    </Link>
-                                </div>
                                 <div className="menu_height_21"></div>
                             </div>
                         </div>

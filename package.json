@@ -8,7 +8,6 @@
     "lodash": "^4.17.15",
     "memoize-one": "^5.1.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
     "nodemon": "^1.19.3",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
@@ -48,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "express-basic-generator": "^0.0.1"
+    "express-basic-generator": "^0.0.1",
+    "node-sass": "^4.13.0"
   }
 }
