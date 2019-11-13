@@ -24,7 +24,9 @@ class Check extends Component {
         const data = parse(window.location.search);
         data.page = page;
         data.price = 0;
-        this.props.searchServices(data)
+        this.props.searchServices(data);
+
+
     }
 
 
@@ -113,7 +115,7 @@ class Check extends Component {
 const mapStateToProps = (state) => ({});
 
 const mapDispatchToProps = {
-    searchServices
+    searchServices,
 };
 
 const Container = connect(

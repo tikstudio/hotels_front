@@ -731,3 +731,50 @@
     margin: auto;
   }
 }
+
+@media only screen and (max-width: 768px){
+
+  .about__x .about__2 .acount__float .about__fluid .about_wrapper .about_section .about__width_60 .about__position_relative .about__f_section .about__f__content .about__map_percentage .about__map_padding .about__map_solid_grey .about__map_float .about__map_form_2 {
+    width: 80%;
+
+    .about__map_form_input{
+      width: 100%;
+    }
+  }
+}
+
+@media only screen and (max-width: 425px) {
+
+  .about__x .about__2 .acount__float .about__fluid .about_wrapper .about_section .about__width_33 .about__form .about__form_box .about__form_1 {
+   flex-wrap: wrap;
+
+    .about__form_f {
+      width: 100%;
+    }
+
+    .about__from_padding {
+      width: 100%;
+    }
+
+    .about__form_m {
+      width: 100%;
+    }
+  }
+
+  .about__x .about__2 .acount__float .about__fluid .about_wrapper .about_section .about__width_33 .about__service{
+    width: 100%;
+  }
+
+  .about__x .about__2 .acount__float .about__fluid .about_wrapper .about_section .about__width_33 .about__node_f {
+    width: 100%;
+  }
+
+  .about__x .about__2 .acount__float .about__fluid .about_wrapper .about_section .about__width_60 .about__position_relative .about__f_section .about__f__content .about__map_percentage .about__map_padding .about__map_solid_grey .about__map_float .about__map_form_2 {
+    width: 190px;
+
+    .about__map_form_input{
+      width: 100%;
+      padding: 15px !important;
+    }
+  }
+}

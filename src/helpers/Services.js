@@ -18,7 +18,6 @@ class Services extends Component {
         };
     }
 
-
     componentDidMount() {
         this.props.services()
     }
@@ -40,9 +39,9 @@ class Services extends Component {
         this.props.history.push('?services=' + services.join(','))
     };
 
-
     render() {
         const {data} = this.props;
+        console.log(data);
         const {modal} = this.state;
 
         return (

@@ -6,8 +6,6 @@ import DayPicker from "react-day-picker/DayPickerInput";
 import Services from "../helpers/Services"
 
 
-
-
 class CheckFrom extends Component {
     constructor(props) {
         super(props);

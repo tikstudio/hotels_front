@@ -1,4 +1,4 @@
-// import {stringify as qs} from 'query-string';
+
 import axios from 'axios';
 
 axios.defaults.baseURL = 'http://localhost:4000';
@@ -9,11 +9,6 @@ class Api {
         return axios.post('/adminlogin/admin-sing-up', data);
     }
 
-
-    // static getRestaurants() {
-    //     return axios.put(`/bring-out`)
-    // }
-    //
     static getServices() {
         return axios.get("/admin/set-service")
     }
@@ -28,6 +23,10 @@ class Api {
             guests
         };
         return axios.post(`/hotels/search-room`, query)
+    }
+
+    static setRooms(){
+        return axios.get('/bring-out')
     }
 }
 
